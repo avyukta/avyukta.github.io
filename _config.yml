@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Shekhar 
 email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+description: A simple personal blog in jekyll with leonids theme.
+url: https://avyukta.github.io
 keywords: ["blog", "jekyll"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Kolkata
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Shekhar
+  avatar: avatar.png
+  job: "Student"
+  bio: "NILL"
+  email: shekhar.s@inspiria.edu.in
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: avyukta #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: cherry007nn #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -68,4 +68,8 @@ owner:
   500px: #username
   codepen: #username
   reddit: #username
-  telegram: #username
+  telegram: cherry007n #username
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
