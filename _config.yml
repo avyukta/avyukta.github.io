@@ -5,7 +5,7 @@
 #
 title: Shekhar 
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: A simple personal blog in jekyll with leonids theme.
 url: https://avyukta.github.io
 keywords: ["blog", "jekyll"]
 
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Shekhar
-  avatar: leonids-logo.png
+  avatar: avatar.png
   job: "Student"
   bio: "NILL"
   email: shekhar.s@inspiria.edu.in
